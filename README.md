@@ -1,4 +1,4 @@
-#Fintech Analysis
+# Fintech Analysis
 
 ## Introduction
 Having done my internship in a fintech company, I always wanted to work with fintech data to practice and hone my skills in data warehousing, data modeling, and data visualization. My experience during the internship sparked a keen interest in understanding how financial data can be leveraged to derive meaningful insights and support strategic decision-making. Building on this foundation, I have embarked on a project titled "Comprehensive Investment Analytics Platform."
