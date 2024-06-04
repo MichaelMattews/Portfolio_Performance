@@ -1,3 +1,10 @@
+-- Portfolio Overview: Display a summary of each user's investment portfolio, including total value, asset allocation, and performance metrics.
+
+-- user_data - user_id, user_name
+-- portfolio_analysis - portfolio_id, portfolio_name, and value
+-- investment_metrics - asset_name, isin, quantity, purchase_price, current_price, purchase_date, asset_type
+-- Output should include - Total value of portfolio, Asset allocation, ROI
+
 WITH portfolio_agg AS (
   SELECT
     u.user_id,
