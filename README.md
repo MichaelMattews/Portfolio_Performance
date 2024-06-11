@@ -30,7 +30,7 @@ Load sample data into BigQuery and prepare it for analysis.
 
 ## Dashboard Development:
 
-Develop interactive dashboards using Data Studio.
+Develop interactive dashboards using Tableau.
 Write SQL queries to extract relevant data from BigQuery.
 Implement visualization components and interactive filters.
 
